@@ -12,7 +12,7 @@ It's better to launch the LoL client before
 
 # Install (Windows only)
 
-Go to the [latest release](https://github.com/nyquase/lol-challenge-tracker/releases/latest)
+Go to the [latest release](https://github.com/xVCantCode/lol-challenge-tracker-main/releases/latest)
 
 > Windows will warn you that this exe is not safe, because it's a pain to sign an exe. Feel free to look at the code to see what it does.
 
