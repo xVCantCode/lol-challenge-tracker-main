@@ -51,7 +51,7 @@ const showChampionNames = defineModel<boolean>("showChampionNames", {
     <div class="footer">
       <a
         class="about"
-        href="https://github.com/Nyquase/lol-challenge-tracker"
+        href="https://github.com/xVCantCode/lol-challenge-tracker-main"
         target="_blank"
       >
         <FontAwesomeIcon class="about-icon" :icon="faGithub" />Project sources
